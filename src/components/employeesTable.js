@@ -88,7 +88,7 @@ export class EmployeesTable extends Component {
               <tr>
                 <th colSpan="7">
                 <div className="col-12 form-group ">
-                <label for="gender" >Select Gender :</label>
+                <label >Select Gender :</label>
                     <div className="col-md-6">
                       
                         <select className="form-control select-form col-sm-6" id="gender" name="gender" onChange={e => this.changeGender(e)}> 
