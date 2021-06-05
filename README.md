@@ -4,6 +4,9 @@ The table have gender fiter. and also it can be sorted with the employee name
 
 ![Alt text](./screenshot/screenshot1.png?raw=true "Title")
 
+#Demo App
+http://ikrammmmm.github.io/employee_directory
+
 ## Installation
 1) Clone the repocitory to your local directory
 ```git clone https://github.com/ikrammmmm/employee_directory```
