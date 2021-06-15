@@ -2,7 +2,7 @@
   "name": "employee-directory",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ikrammmmm.github.io/employee_directory",
+  "homepage": "https://ikrammmmm.github.io/employee_directory/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.13.0",
     "@testing-library/react": "^11.2.7",
